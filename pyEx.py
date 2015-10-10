@@ -10,11 +10,8 @@ def chk(val):
 
 val = int(input('Please enter your value here:'))
 chk(val)
-# comment line to check whether git identifed this change
-# this is the second comment
-# comment 2
-# comment 3
-# comment 4
+
+
 
 
 
