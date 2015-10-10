@@ -13,7 +13,7 @@ chk(val)
 # comment line to check whether git identifed this change
 # this is the second comment
 # comment 2
-# comment 3
+# comment 3 This is a comment I am trying to move in to the staging area
 
 
 
