@@ -10,20 +10,4 @@ def chk(val):
 
 val = int(input('Please enter your value here:'))
 chk(val)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# comments t0
